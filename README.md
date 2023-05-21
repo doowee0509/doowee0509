@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ngduy@umich.edu**
 
-- 📄 Know about my experiences [Resume - Digital.pdf](https://github.com/doowee0509/doowee0509/files/11523468/Resume.-.Digital.pdf)
+- 📄 Know about my experiences [Resume.pdf](https://github.com/doowee0509/doowee0509/files/11523468/Resume.-.Digital.pdf)
 
 - ⚡ Fun fact **I play tennis and volleyball.**
 
