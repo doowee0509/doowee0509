@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ngduy.netlify.app](https://ngduy.netlify.app)
 
-- 📫 How to reach me **ngduy@umich.edu**
+- 📫 How to reach me **ngduytech@gmail.com**
 
 - 📄 Know about my experiences [Resume.pdf](https://github.com/doowee0509/doowee0509/files/11523468/Resume.-.Digital.pdf)
 
