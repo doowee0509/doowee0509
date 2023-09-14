@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ngduytech@gmail.com**
 
-- 📄 Know about my experiences [Resume.pdf](https://github.com/doowee0509/doowee0509/files/11523468/Resume.-.Digital.pdf)
+- 📄 Know about my experiences [Duy-Nguyen-CV.pdf](https://github.com/doowee0509/doowee0509/files/12613291/Duy-Nguyen-CV.pdf)
 
 - ⚡ Fun fact **I play tennis and volleyball.**
 
